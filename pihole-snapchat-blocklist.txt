@@ -1,0 +1,12 @@
+#PiHole block list for snapchat ads 
+#Updated 10/17/2022
+
+0.0.0.0 analytics.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 snapchat-proxy.appspot.com
+0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 gtq6.sct.sc-prod.net
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
